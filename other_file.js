@@ -1,2 +1,1 @@
-console.log(name)
-var name = "Susan"
+var index = require("./index.js")
